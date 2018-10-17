@@ -1,2 +1,1 @@
 # bbcoin
-bbc coin
